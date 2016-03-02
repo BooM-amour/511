@@ -683,8 +683,8 @@ return {
   run = run
 }
 end
---Copyright and edit; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
+--Copyright and edit; @Sdfvbh
+--Persian Translate; @Sdfvbh
+--ch : @zvirusx
 --کپی بدون ذکر منبع حرام است
 
